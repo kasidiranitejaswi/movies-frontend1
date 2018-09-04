@@ -1,0 +1,25 @@
+.logo{
+    color: palegreen!important;
+}
+
+.btn-primary{
+    margin-top: 9px;
+}
+
+.form-group{
+    width: 666px;
+    padding-top: 9px;
+}
+
+.back{
+    background: whitesmoke!important;
+}
+
+.srch {
+    width: 600px;
+    /* text-align: center; */
+}
+.butn {
+    margin-left: 10px;
+
+}
